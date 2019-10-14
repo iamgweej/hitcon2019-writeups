@@ -1,0 +1,14 @@
+# vscode
+.vscode/
+
+# GHC
+*.hi
+*.o
+*.exe
+
+# python
+*.pyc
+__pycache__
+
+# exe
+*.exe
