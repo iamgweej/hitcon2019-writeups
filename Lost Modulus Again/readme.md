@@ -123,4 +123,4 @@ Well. This sucks. But notice the LHS is composed entirely of stuff we know (or c
 
 Now, this system of equations is most definetly solvable (actually, its a quadratic equation!), which means we can recover `k` and `t` and then `p` and `q`. I wrote a short script that does exactly that, and lo and behold, it worked!
 
-![Success](link)
+![Success](flag.PNG)
